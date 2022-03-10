@@ -5,6 +5,6 @@
 */
 int main(void)
 {
-	print("with proper grammer, but the outcome is a place of art,\n");
+	printF("with proper grammer, but the outcome is a place of art,\n");
 	return (0);
 }
